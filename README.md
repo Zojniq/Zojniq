@@ -15,7 +15,7 @@
 An interactive educational web platform designed to help students master higher mathematics, linear algebra, vectors, and matrices through structured modules and clear explanations.
 
 * **Live Demo:** [learnmath2gether.com](https://learnmath2gether.com/)
-* **Tech Stack:** `TypeScript (95.8%)`, `PostgreSQL / PL/pgSQL (2.4%)`, `CSS (1.6%)`, `Supabase`
+* **Tech Stack:** `TypeScript`, `PostgreSQL / PL/pgSQL`, `CSS`, `Supabase`
 
 ---
 
