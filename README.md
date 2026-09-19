@@ -10,8 +10,13 @@
 ---
 
 ### 🚀 Featured Project
+#### [DevNotes](https://github.com/Zojniq/DevNotes)
+A minimalist, dark-themed technical blog engine and digital garden built to write and manage developer essays with full CRUD functionality.
 
-#### [DevNotes DevNotes](https://github.com/Zojniq/DevNotes)
+* **Repository:** [github.com/Zojniq/DevNotes](https://github.com/Zojniq/DevNotes)
+* **Tech Stack:** `Node.js`, `Express.js`, `EJS`, `Modular CSS3`
+
+
 #### [Learn Math2Gether](https://learnmath2gether.com/)
 An interactive educational web platform designed to help students master higher mathematics, linear algebra, vectors, and matrices through structured modules and clear explanations.
 
