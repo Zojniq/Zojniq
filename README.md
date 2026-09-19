@@ -11,7 +11,7 @@
 
 ### 🚀 Featured Project
 
-#### [DevNotes DevNotes][https://github.com/Zojniq/DevNotes]
+#### [DevNotes DevNotes][https://github.com/Zojniq/DevNotes] ####
 #### [Learn Math2Gether](https://learnmath2gether.com/)
 An interactive educational web platform designed to help students master higher mathematics, linear algebra, vectors, and matrices through structured modules and clear explanations.
 
