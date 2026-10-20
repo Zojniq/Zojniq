@@ -1,63 +1,61 @@
 ### Hi, I'm Zakhar 👋
 
-🎓 **CS Student** at Matej Bel University (Banská Bystrica) | Applied Informatics & Software Development  
-💻 **Full-Stack & Web3 Developer** — completed **[The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)** on Udemy (Angela Yu)  
-🚀 Passionate about building interactive web applications, educational platforms, and decentralized tools.  
-🎯 **Actively looking for Internship and Junior Software Engineer opportunities!**
+**Junior Full-Stack JavaScript Developer** · TypeScript · React · Next.js · Node.js · PostgreSQL · Supabase
 
-## Software Engineer
+🎓 Student of Applied Informatics & Software Development at **Matej Bel University** (Banská Bystrica, Slovakia)
+📍 From Kyiv, Ukraine · temporarily based in Banská Bystrica
+🎯 **Looking for a Junior Full-Stack JavaScript Developer role or an internship**
 
----
-
-### 🚀 Featured Project
-#### [DevNotes](https://github.com/Zojniq/DevNotes)
-A minimalist, dark-themed technical blog engine and digital garden built to write and manage developer essays with full CRUD functionality.
-
-* **Repository:** [github.com/Zojniq/DevNotes](https://github.com/Zojniq/DevNotes)
-* **Tech Stack:** `Node.js`, `Express.js`, `EJS`, `Modular CSS3`
-
-
-#### [Learn Math2Gether](https://learnmath2gether.com/)
-An interactive educational web platform designed to help students master higher mathematics, linear algebra, vectors, and matrices through structured modules and clear explanations.
-
-* **Live Demo:** [learnmath2gether.com](https://learnmath2gether.com/)
-* **Tech Stack:** `TypeScript`, `PostgreSQL / PL/pgSQL`, `CSS`, `Supabase`
+📫 [Email](mailto:puchkazahar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/zakhar-puchka-460248392) · [Telegram](https://t.me/znahar1337)
 
 ---
 
-### Skills:
+## 🚀 Projects
 
-#### Programming & Markup Languages:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### [Learn Math2Gether](https://learnmath2gether.com/) — live in production
+An interactive platform for learning linear algebra: **2 topics, 11 step-by-step lessons**, user authentication, a personal dashboard and per-lesson progress tracking.
 
-#### Front-end skills:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+* **Live demo:** [learnmath2gether.com](https://learnmath2gether.com/)
+* **Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `MDX` `KaTeX` `Supabase` `PostgreSQL / PL/pgSQL`
+* Auth, profile dashboard and lesson progress on Supabase (schema migrations, PL/pgSQL), DB query caching, **12 production deployments** on Vercel
 
-#### Back-end & Database skills:
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Crypto Exchange — in progress
+A pet project (crypto exchanger) built to get more hands-on experience with **REST APIs**: integrating external APIs with **Axios**.
 
-#### Web3 & Blockchain:
-![web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.dot.js&logoColor=white)
+* **Repository:** [CryptoExenge](https://github.com/Zojniq/CryptoExenge)
+* **Stack:** `JavaScript` `REST API` `Axios`
 
-#### Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+### [SunPanelPO (Solar Designer Pro)](https://github.com/Zojniq/SunPanelPO)
+Offline desktop app for designing photovoltaic installations under Italian norms, with project documents and single-line diagrams.
+
+* **Stack:** `Electron` `Vanilla JavaScript` `Canvas / SVG` `PDF.js` `ESLint` `Vitest` `GitHub Actions`
+
+### [DevNotes](https://github.com/Zojniq/DevNotes)
+A minimalist dark-themed technical blog engine and digital garden with full CRUD.
+
+* **Stack:** `Node.js` `Express.js` `EJS` `CSS3`
+
+### [AlgoBisekcie](https://github.com/Zojniq/AlgoBisekcie)
+Java implementation of the bisection method for finding roots of continuous functions (console app).
+
+* **Stack:** `Java`
 
 ---
 
-### 💼 Open to Work:
-I am actively seeking **Internship** or **Junior Full-Stack / Frontend / Backend Developer** positions. If you have an open role or would like to collaborate, feel free to reach out!
+## 🛠 Skills
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakhar-puchka-460248392)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/znahar1337)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puchkazahar@gmail.com)
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Front-end**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Back-end & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+🎓 Course: [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) (Udemy, Angela Yu)
