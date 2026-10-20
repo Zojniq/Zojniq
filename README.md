@@ -2,8 +2,8 @@
 
 **Junior Full-Stack JavaScript Developer** · TypeScript · React · Next.js · Node.js · PostgreSQL · Supabase
 
-🎓 Student of Applied Informatics & Software Development at **Matej Bel University** (Banská Bystrica, Slovakia)
-📍 From Kyiv, Ukraine · temporarily based in Banská Bystrica
+🎓 Student of Applied Informatics & Software Development at **Matej Bel University** (Banská Bystrica, Slovakia)  
+📍 From Kyiv, Ukraine · temporarily based in Banská Bystrica  
 🎯 **Looking for a Junior Full-Stack JavaScript Developer role or an internship**
 
 📫 [Email](mailto:puchkazahar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/zakhar-puchka-460248392) · [Telegram](https://t.me/znahar1337)
